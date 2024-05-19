@@ -24,5 +24,5 @@ python:
 versions:
   only:
     - main
-    - cooking-sector
+    - clean-cooking
     - hydrogen-commodity
