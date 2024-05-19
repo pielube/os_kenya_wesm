@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'OSeMOSYS Kenya'
-copyright = '2023, Climate Compatible Growth'
+copyright = '2024, Climate Compatible Growth'
 author = 'pielube'
 
 # The full version, including alpha/beta/rc tags
